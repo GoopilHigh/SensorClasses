@@ -1,5 +1,4 @@
 
-
 int led = 9;           // the PWM pin the LED is attached
 int brightness = 0;    // how bright the LED
 int fadeAmount = 2;    // how many points to fade the LED
@@ -44,4 +43,3 @@ void loop() {
 
   delay(30);
 }
-

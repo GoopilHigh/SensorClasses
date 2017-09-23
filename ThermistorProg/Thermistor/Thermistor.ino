@@ -1,5 +1,4 @@
 
-
 //Type Initialisation
 int ThermistorPin = 0;
 int Vo;
@@ -14,7 +13,7 @@ void setup() {
 }
 
 //Print Methode
-void printOut(int Tf, int Tc) {
+void printOut(float Tf, float Tc) {
   Serial.print("Temperature: "); 
   Serial.print(Tf);
   Serial.print(" F; ");
