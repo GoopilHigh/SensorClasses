@@ -10,14 +10,4 @@ void forThis() {
     }
 }
 
-I just need: 
-    -Presure Sensor
-    -distance Sensor
-    -variation stick
-    -button
-    -Speaker
-    -cable
-    -resistance
-    -Arduino Uno
-
 Thank you.
